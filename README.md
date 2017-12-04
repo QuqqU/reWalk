@@ -1,8 +1,8 @@
 # reWalk
 
-Share your Road
-Feel your Road
-All mean is created by unproductive activities
+Share your Road.
+Feel your Road.
+All mean is created by unproductive activities.
 
 
 
